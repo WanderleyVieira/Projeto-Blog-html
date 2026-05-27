@@ -11,5 +11,5 @@ Sempre haverão atualizações da página, até que me sinta satisfeito com toda
 
 # Bibliográfia do Autor:
 
-[![.Readme](https://img.shields.io/badge/Readme-gold?style=for-the-badge&logo=network&logoColor=white)](https://github.com/WanderleyVieira)
+[![Readme.md](https://img.shields.io/badge/Readme_Principal-gold?style=for-the-badge&logo=network&logoColor=white)](https://github.com/WanderleyVieira)
 
